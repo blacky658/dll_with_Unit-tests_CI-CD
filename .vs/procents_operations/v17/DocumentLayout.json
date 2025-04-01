@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0412\u0421\u0415, \u0427\u0422\u041E \u0421\u0412\u042F\u0417\u0410\u041D\u041E \u0421 \u0423\u0427\u0415\u0411\u041E\u0419\\3 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}|tests_of_percent_operations\\tests_of_percent_operations.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u0432\u0441\u0435, \u0447\u0442\u043E \u0441\u0432\u044F\u0437\u0430\u043D\u043E \u0441 \u0443\u0447\u0435\u0431\u043E\u0439\\3 \u043A\u0443\u0440\u0441\\\u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\tests_of_percent_operations\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}|tests_of_percent_operations\\tests_of_percent_operations.csproj|solutionrelative:tests_of_percent_operations\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}|procents_operations\\procents_operations.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u0432\u0441\u0435, \u0447\u0442\u043E \u0441\u0432\u044F\u0437\u0430\u043D\u043E \u0441 \u0443\u0447\u0435\u0431\u043E\u0439\\3 \u043A\u0443\u0440\u0441\\\u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\procents_operations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}|procents_operations\\procents_operations.csproj|solutionrelative:procents_operations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0412\u0421\u0415, \u0427\u0422\u041E \u0421\u0412\u042F\u0417\u0410\u041D\u041E \u0421 \u0423\u0427\u0415\u0411\u041E\u0419\\3 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\tests_of_percent_operations\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tests_of_percent_operations\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0412\u0421\u0415, \u0427\u0422\u041E \u0421\u0412\u042F\u0417\u0410\u041D\u041E \u0421 \u0423\u0427\u0415\u0411\u041E\u0419\\3 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\tests_of_percent_operations\\UnitTest1.cs",
+              "RelativeToolTip": "tests_of_percent_operations\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:18:57.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0412\u0421\u0415, \u0427\u0422\u041E \u0421\u0412\u042F\u0417\u0410\u041D\u041E \u0421 \u0423\u0427\u0415\u0411\u041E\u0419\\3 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\procents_operations\\Class1.cs",
+              "RelativeDocumentMoniker": "procents_operations\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0412\u0421\u0415, \u0427\u0422\u041E \u0421\u0412\u042F\u0417\u0410\u041D\u041E \u0421 \u0423\u0427\u0415\u0411\u041E\u0419\\3 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u043A\u0430\\percents\\procents_operations\\Class1.cs",
+              "RelativeToolTip": "procents_operations\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:55:39.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

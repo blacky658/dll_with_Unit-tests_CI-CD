@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "procents_operations", "procents_operations\procents_operations.csproj", "{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests_of_percent_operations", "tests_of_percent_operations\tests_of_percent_operations.csproj", "{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1925D1-1174-4EDE-A883-3FB1EF269D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBE3CCD-3B99-40C1-A28B-495190F5DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E798B43E-6223-4B27-AEC8-B846F511CC5B}
+	EndGlobalSection
+EndGlobal

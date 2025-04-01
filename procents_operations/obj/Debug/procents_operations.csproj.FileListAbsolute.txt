@@ -1,0 +1,6 @@
+D:\Shohrin\procents_operations\procents_operations\bin\Debug\procents_operations.dll
+D:\Shohrin\procents_operations\procents_operations\bin\Debug\procents_operations.pdb
+D:\Shohrin\procents_operations\procents_operations\obj\Debug\procents_operations.csproj.AssemblyReference.cache
+D:\Shohrin\procents_operations\procents_operations\obj\Debug\procents_operations.csproj.CoreCompileInputs.cache
+D:\Shohrin\procents_operations\procents_operations\obj\Debug\procents_operations.dll
+D:\Shohrin\procents_operations\procents_operations\obj\Debug\procents_operations.pdb
