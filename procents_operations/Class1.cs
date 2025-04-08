@@ -11,13 +11,27 @@ namespace procents_operations
     {
         public static double PercentageOfTheNumber(double number, double percent)
         {
-            return number * (percent/100);
+            if (double.IsNaN(number) || double.IsNaN(percent))
+            {
+                throw new ArgumentException("Числа не должны быть NaN.");
+            }
+
+            return number * (percent / 100);
         }
 
         public static double FindTheOriginalNumber(double number, double percent)
         {
-            return (number / (percent/100));
+            if (double.IsNaN(number) || double.IsNaN(percent))
+            {
+                throw new ArgumentException("Числа не должны быть NaN.");
+            }
+
+            if (percent == 0)
+            {
+                throw new DivideByZeroException("Процент не может быть равен нулю.");
+            }
+
+            return number / (percent / 100);
         }
     }
 }
-

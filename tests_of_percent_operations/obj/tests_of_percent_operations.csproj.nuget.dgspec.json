@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shohrin\\procents_operations\\tests_of_percent_operations\\tests_of_percent_operations.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\tests_of_percent_operations\\tests_of_percent_operations.csproj": {}
   },
   "projects": {
-    "D:\\Shohrin\\procents_operations\\procents_operations\\procents_operations.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\procents_operations\\procents_operations.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Shohrin\\procents_operations\\procents_operations\\procents_operations.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\procents_operations\\procents_operations.csproj",
         "projectName": "procents_operations",
-        "projectPath": "D:\\Shohrin\\procents_operations\\procents_operations\\procents_operations.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\procents_operations\\procents_operations.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,21 +19,17 @@
         "net472": {}
       }
     },
-    "D:\\Shohrin\\procents_operations\\tests_of_percent_operations\\tests_of_percent_operations.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\tests_of_percent_operations\\tests_of_percent_operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shohrin\\procents_operations\\tests_of_percent_operations\\tests_of_percent_operations.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\tests_of_percent_operations\\tests_of_percent_operations.csproj",
         "projectName": "tests_of_percent_operations",
-        "projectPath": "D:\\Shohrin\\procents_operations\\tests_of_percent_operations\\tests_of_percent_operations.csproj",
-        "packagesPath": "C:\\Users\\ШохринДА\\.nuget\\packages\\",
-        "outputPath": "D:\\Shohrin\\procents_operations\\tests_of_percent_operations\\obj\\",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\tests_of_percent_operations\\tests_of_percent_operations.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\tests_of_percent_operations\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ШохринДА\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,15 +37,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Shohrin\\procents_operations\\procents_operations\\procents_operations.csproj": {
-                "projectPath": "D:\\Shohrin\\procents_operations\\procents_operations\\procents_operations.csproj"
+              "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\procents_operations\\procents_operations.csproj": {
+                "projectPath": "C:\\Users\\Пользователь\\Desktop\\ВСЕ, ЧТО СВЯЗАНО С УЧЕБОЙ\\3 курс\\Инструменталка\\percents\\procents_operations\\procents_operations.csproj"
               }
             }
           }
@@ -102,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
